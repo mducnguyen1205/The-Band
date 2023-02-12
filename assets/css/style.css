@@ -177,7 +177,7 @@ html {
 #slider {
    margin-top: 46px;
    padding-top: 50%;
-   background-image: url(/assets/img/Slider/Slider1.jpg);
+   background-image: url('../img/Slider/Slider1.jpg');
    background-size: cover;
    background-position-x: center;
    background-repeat: no-repeat;
