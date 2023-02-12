@@ -319,7 +319,9 @@ html {
 .Place-Heading {
     
 }
-
+.test {
+    font-size: 2em;
+}
 .place-time {
     margin-top: 15px;
     color: #757575;
